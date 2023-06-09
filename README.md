@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm learning data analysis 👍
 
 <!--
 **ernesto9-3510/ernesto9-3510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
